@@ -1,0 +1,4 @@
+#Wed Jan 17 21:02:00 MMT 2018
+base.0=/home/soepaing/AndroidStudioProjects/Quiz_Contest/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
